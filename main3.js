@@ -100,3 +100,13 @@
 // calculator.read();
 // alert(calculator.sum());
 // alert(calculator.mul());
+
+//Сумма пользовательских чисел
+// Создайте скрипт, который запрашивает ввод двух чисел (используйте prompt) и после показывает их сумму.
+// let fig1 = prompt('num1?', 0),
+//     fig2 = prompt('num2?', 0);
+// function sum(a, b) {
+//     return a + b
+// }
+// console.log(sum(fig1, fig2));
+
