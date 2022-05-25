@@ -144,3 +144,9 @@
 //     return min + (Math.random() * (max - min))
 // }
 // console.log(random(num1, num2));
+
+
+
+
+// Напишите функцию ucFirst(str), возвращающую строку str с заглавным первым символом. Например:
+ucFirst("вася") == "Вася";
